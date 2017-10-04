@@ -1,1 +1,7 @@
-Ciclo Repetitivo
+Ciclo Repetitivo:
+
+
+Es el cual nos pertime realizar una operacion varias veces, se utilizan Contadores y acomuladores
+los contadores nos ayudan a controlar el limite del bucle repetitivo, para que asi no se de uno infinito.
+
+Los Acumuladores nos 
